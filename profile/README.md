@@ -19,3 +19,31 @@
 - [Akıllı Paket Yöneticisi](https://github.com/ritimOS/Aps) Paket Yöneticisi.☔
 - [Kendini Derleyebilen](https://github.com/ritimOS/uff-puff) Bir sistem.🔥
 - Hepsinin başı kendini başlatabilen bir sistem.⛺
+
+
+
+## Aps Kullanım Örnekleri
+
+Yükleme
+```bash
+sudo aps install steam
+```
+Kaldırma
+```bash
+sudo aps remove steam
+```
+Güncelleme
+```bash
+sudo aps up steam
+```
+Güncellemeyi Silme
+```bash
+sudo aps rm-up steam
+```
+Yardım Alma
+```bash
+aps
+```
+```bash
+aps help
+```
