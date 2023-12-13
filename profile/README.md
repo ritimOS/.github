@@ -14,12 +14,16 @@
                              
 
 
-## 🥗İlk 1.0 sürümü ile gelmesi beklenen projeler:
+## 🥗İlk 0.1 sürümü ile gelmesi beklenen projeler:
 
 - [Akıllı Paket Yöneticisi](https://github.com/ritimOS/Aps) Paket Yöneticisi.☔
 - [Kendini Derleyebilen](https://github.com/ritimOS/uff-puff) Bir sistem.🔥
 - Hepsinin başı kendini başlatabilen bir sistem.⛺
 
+
+## Ekran Görüntüleri
+
+![Ana Ekran](https://github.com/ritimOS/.github/assets/110179578/7ac3a8ee-d147-4294-b2c2-612a7269cd6f)
 
 
 ## Aps Kullanım Örnekleri
